@@ -1,0 +1,75 @@
+.contacts__item {
+    list-style: none;
+}
+
+.contacts__card{
+    width: 220px;
+    height: 427px;
+    background-color:#ffffff;
+    box-shadow: 0px 8px 30px rgba(212, 20, 67, 0.1);
+    border-radius: 24px;
+}
+
+.card__list-item{
+    width: 80px;
+    height: 16px;
+    background-color: #F0D1A5;
+    border-radius: 4px;
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 186%;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.04em;
+    color: #000000;
+}
+
+.card__list-place{
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 186%;
+    letter-spacing: 0.04em;
+    color: #000000;
+}
+
+.card__list-place-description{
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 18px;
+    color: #907E82;
+}
+
+.card__list-days{
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 186%;
+    color: #000000;
+}
+
+.card__list-hours{
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 186%;
+    color: #FFA5BA;
+}
+
+.card__list-phonelink,
+.card__list-maillink{
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 18px;
+    color: #907E82;
+}
